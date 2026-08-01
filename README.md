@@ -74,44 +74,85 @@ public class ParasAkiwate {
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Tech Stack & Expertise
 
-<!-- Icons powered by skillicons.dev — https://skillicons.dev -->
+<div align="center">
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,c,mysql" alt="languages" />
+### 👨‍💻 Full Stack Java Developer (Aspiring) | BCA Student | Open Source Learner
+
+<img src="https://skillicons.dev/icons?i=java,js,c,html,css,react,tailwind,spring,mysql,postgres,git,github,vscode,idea,maven,npm,vite&perline=8" />
+
+</div>
+
+---
+
+### 🚀 Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-`Java (Primary)` `JavaScript` `C` `SQL`
+---
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="frontend" />
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-`HTML5` `CSS3` `React.js` `Tailwind CSS`
+---
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring" alt="backend" />
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-Backend-red?style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/JDBC-Database-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
-`Java` `JDBC` `Spring Boot (Learning)`
+---
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="databases" />
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-`MySQL` `PostgreSQL`
+---
 
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,npm,vite" alt="tools" />
+### 🛠️ Development Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
-`Git`  `GitH ub`  `VS Code`  `IntelliJ IDEA`  `NetBeans`  `Maven`  `npm`  `Vite`
+---
+
+<div align="center">
+
+### 🌱 Currently Learning
+
+`Spring Boot` • `REST APIs` • `Data Structures & Algorithms` • `React.js` • `System Design`
+
+### 🎯 Career Objective
+
+**Aspiring Full Stack Java Developer focused on building scalable, user-friendly web applications while continuously improving problem-solving skills through Data Structures & Algorithms and real-world projects.**
+
+</div>
 
 ---
 
