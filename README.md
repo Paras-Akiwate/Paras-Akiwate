@@ -74,17 +74,17 @@ public class ParasAkiwate {
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ My Tech Arsenal
 
 <div align="center">
 
-### Building modern, scalable & user-friendly applications
+<img src="https://skillicons.dev/icons?i=java,react,spring,js,html,css,tailwind,postgres,git,github,vscode,idea,maven,npm,vite" />
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,tailwind,mysql,postgres,git,github,vscode,idea,maven,npm,vite,c" />
+<br>
 
-<br><br>
+<br>
 
-**☕ Java** • **⚛️ React.js** • **🌱 Spring Boot** • **🛢️ MySQL** • **💻 Full Stack Development**
+**☕ Java** • **⚛️ React.js** • **🌱 Spring Boot** • **🛢️ MySQL**      • **💻 Full Stack Development**
 
 </div>
 
@@ -167,28 +167,6 @@ public class ParasAkiwate {
 
 ---
 
-## 💼 Featured Projects
-
-<details open>
-<summary><b>🏟️ Sports Management System</b></summary>
-<br>
-
-**Description:** A Java-based application to manage sports teams, players, matches, and schedules efficiently, designed with a focus on clean CRUD operations and structured data handling.
-
-**Tech Stack:** `Java` `JDBC` `MySQL` `Swing/Console UI`
-
-**Key Features:**
-- Add, update, and manage player and team records
-- Schedule and track match details
-- Persistent data storage using MySQL
-- Modular, object-oriented codebase
-
-🔗 **GitHub Repo:** [Sports Management System](#)
-🔗 **Live Demo:** [View Demo](#)
-
-</details>
-
----
 
 ## 🌐 Coding Profiles
 
