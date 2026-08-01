@@ -74,13 +74,17 @@ public class ParasAkiwate {
 
 ---
 
-## 💻 Tech Stack & Expertise
+## 🚀 Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Full Stack Java Developer (Aspiring) | BCA Student | Open Source Learner
+### Building modern, scalable & user-friendly applications
 
-<img src="https://skillicons.dev/icons?i=java,js,c,html,css,react,tailwind,spring,mysql,postgres,git,github,vscode,idea,maven,npm,vite&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,react,html,css,tailwind,mysql,postgres,git,github,vscode,idea,maven,npm,vite,c" />
+
+<br><br>
+
+**☕ Java** • **⚛️ React.js** • **🌱 Spring Boot** • **🛢️ MySQL** • **💻 Full Stack Development**
 
 </div>
 
