@@ -111,19 +111,7 @@ public class ParasAkiwate {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,npm,vite" alt="tools" />
 </p>
 
-`Git` `GitHub` `VS Code` `IntelliJ IDEA` `NetBeans` `Maven` `npm` `Vite`
-
----
-
-## 📚 Currently Learning
-
-| Topic | Status |
-|---|---|
-| Data Structures & Algorithms (Java) | 🟢 In Progress |
-| React.js | 🟢 In Progress |
-| Spring Boot | 🟡 Learning Fundamentals |
-| REST APIs | 🟢 In Progress |
-| System Design | 🟠 Beginner |
+`Git`  `GitH ub`  `VS Code`  `IntelliJ IDEA`  `NetBeans`  `Maven`  `npm`  `Vite`
 
 ---
 
