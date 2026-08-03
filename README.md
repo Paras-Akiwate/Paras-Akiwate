@@ -38,7 +38,7 @@
 ```java
 public class ParasAkiwate {
     private String name       = "Paras Akiwate";
-    private String location   = "Maharashtra, India";
+    private String location   = "Sangli,Maharashtra, India";
     private String education  = "Bachelor of Computer Applications (BCA), 3rd Year";
     private String goal       = "Full Stack Java Developer / Software Engineer";
     private String[] passions = {"Java", "Web Development", "Problem Solving", "Open Source"};
