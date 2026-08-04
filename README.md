@@ -23,11 +23,7 @@
 </a>
 
 <!-- ================= SOCIAL / STATUS BADGES ================= -->
-<p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="status"/>
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue&label=Profile+Views" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/your-username?style=for-the-badge&color=blue&logo=github&label=Followers" alt="followers"/>
-</p>
+
 
 </div>
 
