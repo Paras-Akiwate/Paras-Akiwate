@@ -61,12 +61,7 @@ public class ParasAkiwate {
 - 🌐 Building full-stack projects using **React.js + Spring Boot + MySQL**
 - 📘 Learning **REST API** design and beginner-level **System Design**
 
-## 🤝 Open to Collaboration
 
-- 🚀 Open-source contributions (Java / React / Web projects)
-- 👥 Full-stack web development projects
-- 💡 Hackathons and coding challenges
-- 📚 Peer learning around DSA and Java backend development
 
 ---
 
