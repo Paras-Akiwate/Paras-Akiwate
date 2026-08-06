@@ -59,7 +59,7 @@ public class ParasAkiwate {
 
 - 🔨 Strengthening **Data Structures & Algorithms** in Java
 - 🌐 Building full-stack projects using **React.js + Spring Boot + MySQL**
-- 📘 Learning **REST API** design and beginner-level **System Design**
+
 
 
 
