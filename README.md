@@ -58,7 +58,7 @@ public class ParasAkiwate {
 ## 🎯 Currently Working On
 
 - 🔨 Strengthening **Data Structures & Algorithms** in Java
-- 🌐 Building full-stack projects using **React.js + Spring Boot + MySQL**
+
 
 
 
