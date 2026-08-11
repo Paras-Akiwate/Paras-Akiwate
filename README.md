@@ -1,15 +1,4 @@
-<!--
-  =====================================================================
-  GITHUB PROFILE README — Paras Akiwate
-  =====================================================================
-  HOW TO USE THIS FILE:
-  1. Replace every "your-username" with your actual GitHub username.
-  2. Replace all "#" placeholder links with real project/social links.
-  3. Swap the banner image URL with your own banner (see comment below).
-  4. This file goes in a repo named EXACTLY your GitHub username
-     (e.g. github.com/paras-akiwate/paras-akiwate) as README.md.
-  =====================================================================
--->
+
 
 <div align="center">
 
