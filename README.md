@@ -46,13 +46,7 @@ public class ParasAkiwate {
 
 
 
-- 🔨 Strengthening **Data Structures & Algorithms** in Java
 
-
-
-
-
----
 
 ## 🛠️ My Tech Arsenal
 
