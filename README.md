@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<!-- ================= BANNER (replace with your own banner image) ================= -->
+
 <!-- Suggested tool to design one: https://banner.godsreason.com or Canva (1584x396) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:0D47A1&height=220&section=header&text=Hi%20There,%20I'm%20Paras%20Akiwate&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Java%20Developer%20%7C%20BCA%20Student&descAlignY=55&descSize=18" width="100%"/>
 
