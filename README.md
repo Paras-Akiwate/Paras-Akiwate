@@ -58,7 +58,7 @@ public class ParasAkiwate {
 
 <br>
 
-**☕ Java** • **⚛️ React.js** • **🌱 Spring Boot** • **🛢️ MySQL**      • **💻 Full Stack Development**
+**☕ Java** • **⚛️ React.js** • **🌱 Spring Boot** • **🛢️ MySQL** • **💻 Full Stack Development**
 
 </div>
 
