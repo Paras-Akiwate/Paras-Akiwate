@@ -40,7 +40,7 @@ public class ParasAkiwate {
 - 🤝 Enjoy collaborating on projects and contributing to open-source repositories.
 - ⚡ Fun fact: I believe clean code and consistent practice matter more than shortcuts.
 
-> *"The only way to learn a new programming language is by writing programs in it."* — **Dennis Ritchie**
+> *"The only way to learn a new programming language is by writing programs in it."* — *Dennis Ritchie*
 
 ---
 
