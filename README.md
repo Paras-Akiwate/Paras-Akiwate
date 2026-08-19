@@ -6,7 +6,7 @@
 <!-- Suggested tool to design one: https://banner.godsreason.com or Canva (1584x396) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:0D47A1&height=220&section=header&text=Hi%20There,%20I'm%20Paras%20Akiwate&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Java%20Developer%20%7C%20BCA%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- ================= ANIMATED TYPING SVG ================= -->
+<!-- =========ANIMATED TYPING SVG ========= -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;BCA+Student+%7C+3rd+Year;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React.js;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
