@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=600&lines=Full+Stack+Java+Developer;BCA+Student+%7C+3rd+Year;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React.js;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<!-- ================= SOCIAL / STATUS BADGES ================= -->
+<!-- ================= SOCIAL / STATUS BADGES//// ================= -->
 
 
 </div>
