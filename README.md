@@ -125,9 +125,6 @@ public class ParasAkiwate {
 
 `Spring Boot` • `REST APIs` • `Data Structures & Algorithms` • `React.js` • `System Design`
 
-### 🎯 Career Objective
-
-**Aspiring Full Stack Java Developer focused on building scalable, user-friendly web applications while continuously improving problem-solving skills through Data Structures & Algorithms and real-world projects.**
 
 </div>
 
