@@ -119,16 +119,6 @@ public class ParasAkiwate {
 
 ---
 
-<div align="center">
-
-### 🌱 Currently Learning
-
-`Spring Boot` • `REST APIs` • `Data Structures & Algorithms` • `React.js` • `System Design`
-
-
-</div>
-
----
 
 ## 🏆 Certifications
 
