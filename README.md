@@ -44,10 +44,6 @@ public class ParasAkiwate {
 
 ---
 
-
-
-
-
 ## 🛠️ My Tech Arsenal
 
 <div align="center">
@@ -124,19 +120,6 @@ public class ParasAkiwate {
 
 - 🎖️ **NPTEL — Programming in Java** *(Elite with Silver medal )*
 - 🎖️ **Full Stack Java & Web Development Certification**
-
----
-
-
-## 🌐 Coding Profiles
-
-<p>
-  <a href="https://leetcode.com/u/Paras_2595/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-  <a href="https://www.geeksforgeeks.org/profile/paras2595" target="-blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
- </a>
-</p>
 
 ---
 
